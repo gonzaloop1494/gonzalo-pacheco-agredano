@@ -17,4 +17,4 @@ qr.make(fit=True)
 img = qr.make_image(fill_color="black", back_color="white")
 img.save("QR_English_Certificate.png")
  
-print("QR success")
+print("QR generation success")
