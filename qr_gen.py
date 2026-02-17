@@ -1,7 +1,7 @@
 import qrcode
 from qrcode.constants import ERROR_CORRECT_Q
 
-url = "https://raw.githubusercontent.com/gonzaloop1494/gonzalo-pacheco-agredano/main/English_C1_Certificate.pdf"
+url = "https://github.com/gonzaloop1494/gonzalo-pacheco-agredano/raw/main/English_C1_Certificate.pdf"
 
 
 qr = qrcode.QRCode(
